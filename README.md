@@ -1,0 +1,1 @@
+This repository contains a MATLAB .m file with the main function count_quasifull_rooted_trees. It gives an exact enumeration of the unlabeled quasi-full rooted trees with a certain number of elements (nodes) according to their arity.
